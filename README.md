@@ -5,4 +5,4 @@ NIM  : 19.01.013.124
 MK   : SAINS DATA
 
 
-LINK YOUTUBE :
+LINK YOUTUBE : https://youtu.be/maWgdZf5nGQ
